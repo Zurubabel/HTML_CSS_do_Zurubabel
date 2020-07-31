@@ -7,10 +7,15 @@ Caso queiram alguma IDE que eu cito na aula 0, aqui estão os links:
 Links
 
 Notepad++ - [https://notepad-plus-plus.org/](https://notepad-plus-plus.org/)
+
 Sublime Text - [https://www.sublimetext.com/3](https://www.sublimetext.com/3)
+
 Brackets - [http://brackets.io/](http://brackets.io/)
+
 Visual Studio Code - [https://code.visualstudio.com/](https://code.visualstudio.com/)
+
 Eclipse - [https://www.eclipse.org/downloads/](https://www.eclipse.org/downloads/)
+
 Netbeans - [https://netbeans.org/](https://netbeans.org/)
 
 Seguem os links dos vídeos:

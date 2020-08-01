@@ -36,3 +36,10 @@ Neste primeiro vídeo da parte 1 do curso de HTML, CSS e Javascript do Zurubabel
 
 Nesta vídeo aula do curso de HTML, CSS e Javascript do Zurubabel eu falo sobre o que é uma tag e sua estrutura.
 
+### [HTML, CSS e JS do Zuruba (Aula 1.2) - Criando a primeira página](https://youtu.be/rIHU9a2trE0)
+
+Nesta vídeo aula do curso de HTML, CSS e JS do Zurubabel eu crio a primeira página HTML. Mesmo simples, mas explico sobre sua estrutura.
+
+### [HTML, CSS e JS do Zuruba (Aula 1.3) - Tags e seus atributos](https://youtu.be/4Rpy-Pd122M)
+
+Nesta vídeo aula do curso de HTML, CSS e Javascript do Zurubabel eu falo sobre tags e seus atributos, usando como exemplo as tags a e img

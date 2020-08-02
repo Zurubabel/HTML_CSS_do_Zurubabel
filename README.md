@@ -68,4 +68,6 @@ Nesta vídeo aula de HTML, CSS e Javascript do Zurubabel eu falo sobre os atribu
 
 Nesta vídeo aula do curso de HTML, CSS e Javascript do Zurubabel eu ensino como realizar seleções de CSS através de atributos.
 
+### [HTML, CSS e JS do Zuruba (Aula 1.10) - Pseudo classes de ação (12/08/2020 12:00)](https://youtu.be/VileOncr1tM)
 
+Nesta vídeo aula do curso de HTML, CSS e Javascript do Zurubabel eu ensino sobre quatro pseudo-classes de alguns elementos HTML: link, visited, hover e active 

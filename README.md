@@ -43,3 +43,13 @@ Nesta vídeo aula do curso de HTML, CSS e JS do Zurubabel eu crio a primeira pá
 ### [HTML, CSS e JS do Zuruba (Aula 1.3) - Tags e seus atributos (05/08/2020 12:00)](https://youtu.be/4Rpy-Pd122M)
 
 Nesta vídeo aula do curso de HTML, CSS e Javascript do Zurubabel eu falo sobre tags e seus atributos, usando como exemplo as tags a e img
+
+### [HTML, CSS e JS do Zuruba (Aula 1.4) - Documento HTML e Introdução ao DOM (06/08/2020 12:00)](https://youtu.be/fEXtJvbzCMI)
+
+Nesta vídeo aula do curso de HTML, CSS e Javascript do Zurubabel eu falo sobre a estrutura do documento HTML e faço uma breve explicação sobre o que é o DOM (Document Object Model)
+
+### [HTML, CSS e JS do Zuruba (Aula 1.5) - Introdução ao CSS (07/08/2020 12:00)](https://youtu.be/UZVE_zU38fY)
+
+Nesta vídeo aula do curso de HTML, CSS e Javascript do Zurubabel eu faço uma breve introdução ao CSS, mostrando sua estrutura e crio alguns exemplos simples. Também falo sobre estilização direto na tag
+
+

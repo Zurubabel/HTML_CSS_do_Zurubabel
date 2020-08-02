@@ -63,3 +63,9 @@ Nesta vídeo aula do curso de HTML, CSS e Javascript do Zurubabel eu ensino como
 ### [HTML, CSS e JS do Zuruba (Aula 1.8) - Seletores de id e class (10/08/2020 12:00)](https://youtu.be/QWL5xxQg97A)
 
 Nesta vídeo aula de HTML, CSS e Javascript do Zurubabel eu falo sobre os atributos e os seletores de id e de classes.
+
+### [HTML, CSS e JS do Zuruba (Aula 1.9) - Seletores por atributos (11/08/2020 12:00)](https://youtu.be/GW_I6QAaSLc)
+
+Nesta vídeo aula do curso de HTML, CSS e Javascript do Zurubabel eu ensino como realizar seleções de CSS através de atributos.
+
+

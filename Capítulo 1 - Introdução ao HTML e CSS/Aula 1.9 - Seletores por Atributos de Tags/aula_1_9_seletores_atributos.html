@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>Aula 1.9 - Seletores por atributos de tag</title>
+		<style>
+			[href] {
+				background-color: red;
+			}
+			
+			[href="https://github.com/Zurubabel/HTML_CSS_do_Zurubabel"] {
+				background-color: yellow;
+			}
+			
+			[href^="https://ahnegao"] {
+				background-color: purple;
+				color: white;
+			}
+			
+			[href$="SQLServer"] {
+				background-color: black;
+				color: white;
+				font-size: 20px;
+			}
+			
+			[href*="Python"] {
+				background-color: white;
+			}
+			
+			[jooj="AgarraPelaCabeca"] {
+				font-size: 40px;
+			}
+		</style>
+	</head>
+	<body>
+		<h1>Seletores por atributos</h1>
+		<ul>
+			<li><strong>[atributo]</strong> - Seleciona todos os elementos que contenham este atributo</li>
+			<li><strong>[atributo=valor]</strong> - Seleciona todos os elementos que contenham o atributo que tenha o valor correspondente</li>
+			<li><strong>[atributo^=valor]</strong> - Seleciona todos os elementos que tenham o atributo que o valor inicie com "valor"</li>
+			<li><strong>[atributo$=valor]</strong> - Seleciona todos os elementos que tenham o atributo que o valor termine com "valor"</li>
+			<li><strong>[atributo*=valor]</strong> - Seleciona todos os elementos que tenham o atributo que contenha "valor" em qualquer lugar</li>
+		</ul>
+		
+		<h3>Exemplos:</h3>
+		<ul>
+			<li jooj="AgarraPelaCabeca"><a href="https://github.com/Zurubabel/HTML_CSS_do_Zurubabel">Github das aulas de HTML</a></li>
+			<li><a href="https://github.com/Zurubabel/O_Melhor_Curso_de_Python">Github das aulas de Python</a></li>
+			<li><a href="https://github.com/Zurubabel/SQLServer">Github das aulas de SQL Server</a></li>
+			<li><a href="https://ahnegao.com.br">Blog do Ah Negão!</a></li>
+		</ul>
+	</body>
+</html>

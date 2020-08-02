@@ -18,6 +18,8 @@ Eclipse - [https://www.eclipse.org/downloads/](https://www.eclipse.org/downloads
 
 Netbeans - [https://netbeans.org/](https://netbeans.org/)
 
+Mozila DEV - [https://developer.mozilla.org/pt-BR/docs/Web/CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+
 Seguem os links dos vídeos:
 
 ### [HTML CSS e JS do Zuruba - Introdução (01/08/2020 12:00)](https://youtu.be/B13UL2WxIvo)
@@ -68,6 +70,10 @@ Nesta vídeo aula de HTML, CSS e Javascript do Zurubabel eu falo sobre os atribu
 
 Nesta vídeo aula do curso de HTML, CSS e Javascript do Zurubabel eu ensino como realizar seleções de CSS através de atributos.
 
-### [HTML, CSS e JS do Zuruba (Aula 1.10) - Pseudo classes de ação (12/08/2020 12:00)](https://youtu.be/VileOncr1tM)
+### [HTML, CSS e JS do Zuruba (Aula 1.10) - Pseudo-classes de ação (12/08/2020 12:00)](https://youtu.be/VileOncr1tM)
 
 Nesta vídeo aula do curso de HTML, CSS e Javascript do Zurubabel eu ensino sobre quatro pseudo-classes de alguns elementos HTML: link, visited, hover e active 
+
+### [HTML, CSS e JS do Zuruba (Aula 1.11) - Pseudo-classes de posição (13/08/2020 12:00)](https://youtu.be/uV4oEJzWXaI)
+
+Nesta vídeo aula de do curso de HTML, CSS e Javascript do Zurubabel eu ensino sobre pseudo-classes de posição, que são referentes a onde os elementos estão referente a seus elementos pai.

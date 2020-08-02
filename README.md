@@ -52,4 +52,12 @@ Nesta vídeo aula do curso de HTML, CSS e Javascript do Zurubabel eu falo sobre 
 
 Nesta vídeo aula do curso de HTML, CSS e Javascript do Zurubabel eu faço uma breve introdução ao CSS, mostrando sua estrutura e crio alguns exemplos simples. Também falo sobre estilização direto na tag
 
+### [HTML, CSS e JS do Zuruba (Aula 1.6) - Introdução ao Javascript e DOM (08/08/2020 12:00)](https://youtu.be/3chkgpNtRBY)
+
+Nesta vídeo aula do curso de HTML, CSS e Javascript do Zurubabel eu mostro um pouco sobre o que é o javascript e como usá-lo para acessar elementos na página (DOM).
+
+### [HTML, CSS e JS do Zuruba (Aula 1.7) - Acessando arquivos externos (09/08/2020 12:00)](https://youtu.be/Va_bV1cXFYw)
+
+Nesta vídeo aula do curso de HTML, CSS e Javascript do Zurubabel eu ensino como acessar/importar arquivos externos para sua página HTML. Os arquivos são folhas de estilo e scripts de javascript.
+
 

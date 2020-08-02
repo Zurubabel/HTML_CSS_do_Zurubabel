@@ -77,3 +77,7 @@ Nesta vídeo aula do curso de HTML, CSS e Javascript do Zurubabel eu ensino sobr
 ### [HTML, CSS e JS do Zuruba (Aula 1.11) - Pseudo-classes de posição (13/08/2020 12:00)](https://youtu.be/uV4oEJzWXaI)
 
 Nesta vídeo aula de do curso de HTML, CSS e Javascript do Zurubabel eu ensino sobre pseudo-classes de posição, que são referentes a onde os elementos estão referente a seus elementos pai.
+
+### [HTML, CSS e JS do Zuruba (Aula 1.12) - Seletores de posição relativa (14/08/2020 12:00)](https://youtu.be/4D2E4h3zVUE)
+
+Nesta vídeo aula do curso de HTML, CSS e Javascript do Zurubabel eu falo sobre alguns seletores de CSS de posição relativa

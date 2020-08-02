@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>Aula 1.12 - Seletores de posição relativa</title>
+		<style>
+			li:hover {
+				background-color: gray;
+			}
+			
+			li:hover ~ li {
+				background-color: black;
+				color:white;
+				font-weight:bold;
+			}
+			
+			li:active {
+				background-color: orange;
+			}
+			
+			li:active ~ li {
+				background-color: red;
+				color:white;
+			}
+			
+			
+		</style>
+	</head>
+	<body>
+		<h1>Seletores de posição relativa</h1>
+		<ul>
+			<li><strong>tag_a tag_b</strong> - Seleciona todas tag_b descendentes da tag_a</li>
+			<li><strong>tag_a > tag_b</strong> - Seleciona o filhos diretos da tag_a, neste caso, as tag_b</li>
+			<li><strong>tag_a + tag_b</strong> - Seleciona a próxima tag_b irmã da tag_a</li>
+			<li><strong>tag_a ~ tag_b</strong> - Seleciona todos as próximas tag_b irmãs da tag_a</li>
+		</ul>
+		<h2>- Exemplos - </h2>
+		<p>Primeiro p</p>
+		<p>Segundo p</p>
+		<div>
+			<p>Último p</p>
+		</div>
+		<br>
+		<ul>
+			<li>Elemento 1</li>
+			<li>Elemento 2</li>
+			<li>Elemento 3</li>
+			<li>Elemento 4</li>
+			<li>Elemento 5</li>
+			<li>Elemento 6</li>
+			<li>Elemento 7</li>
+			<li>Elemento 8</li>
+			<li>Elemento 9</li>
+			<li>Elemento 10</li>
+		</li>
+	</body>
+</html>

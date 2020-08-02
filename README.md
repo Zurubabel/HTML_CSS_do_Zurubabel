@@ -60,4 +60,6 @@ Nesta vídeo aula do curso de HTML, CSS e Javascript do Zurubabel eu mostro um p
 
 Nesta vídeo aula do curso de HTML, CSS e Javascript do Zurubabel eu ensino como acessar/importar arquivos externos para sua página HTML. Os arquivos são folhas de estilo e scripts de javascript.
 
+### [HTML, CSS e JS do Zuruba (Aula 1.8) - Seletores de id e class (10/08/2020 12:00)](https://youtu.be/QWL5xxQg97A)
 
+Nesta vídeo aula de HTML, CSS e Javascript do Zurubabel eu falo sobre os atributos e os seletores de id e de classes.

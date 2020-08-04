@@ -101,3 +101,7 @@ Nesta vídeo aula do curso de HTML5, CSS e Javascript do Zurubabel eu explico o 
 ### [HTML5, CSS e JS do Zuruba (Aula 2.1) - Espaçamento dos elementos HTML (18/08/2020 13:00)](https://youtu.be/mGR5MdYBZFE)
 
 Nesta vídeo aula do curso de HTML5, CSS e Javascript do Zurubabel eu falo sobre o espaçamento dos elementos, que são o margin, padding e border.
+
+### [HTML5, CSS e JS do Zuruba (Aula 2.2) - Estruturando uma página com div e tags HTML5 (19/08/2020 12:00)](https://youtu.be/ihi6MG8hKIM)
+
+Nesta vídeo aula do curso de HTML5, CSS e Javascript do Zurubabel eu demonstro como criar uma pequena página usando divs e usando as tags do HTML5: header, nav, article, section, aside e footer

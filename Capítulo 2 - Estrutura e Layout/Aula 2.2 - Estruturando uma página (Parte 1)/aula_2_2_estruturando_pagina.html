@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="br">
+	<head>
+		<meta charset="UTF-8">
+		<title>Aula 2.2 - Estruturando uma página (Parte 1)</title>
+		<style>
+			body {
+				background-color: #EEEEEE;
+			}
+			
+			header, nav, article, aside, footer {
+				padding-top: 15px;
+				padding-bottom: 15px;
+				
+				font-size: 25px;
+				text-align: center;
+				
+				background-color: #CCCCCC;
+			}
+			
+			header, nav, article, aside {
+				margin-bottom: 15px;				
+			}
+			
+			article {
+				float: left;
+				margin-right: 15px;
+				height: 500px;
+				width: 60%;
+			}
+			
+			aside {
+				float: left;
+				width: calc(40% - 50px);
+			}
+			
+			footer {
+				clear: both;
+			}
+			
+		</style>
+	</head>
+	<body>
+		<!--
+		<div id="header">Header</div>
+		<div id="nav">Nav</div>
+		<div id="article">
+			Article
+			<div id="section">Section</div>
+		</div>
+		<div id="aside">Aside</div>
+		<div id="footer">Footer</div>
+		-->
+		<header id="header">Header</header>
+		<nav id="nav">Nav</nav>
+		<article id="article">
+			Article
+			<section id="section">Section</article>
+		</article>
+		<aside id="aside">Aside</aside>
+		<footer id="footer">Footer</footer>
+	</body>
+</html>
